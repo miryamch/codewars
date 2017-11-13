@@ -1,4 +1,4 @@
-package codewars;
+package codewars.challenge1;
 
 public class Maskify {
 
